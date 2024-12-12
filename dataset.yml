@@ -1,0 +1,275 @@
+path: /content/dataset
+train: images/train
+val: images/val
+
+names:
+  0: Firefox
+  1: File Explore
+  2: Copilot
+  3: Home
+  4: Start Window Icon
+  5: Chrome
+  6: Search Bar
+  7: Chrome
+  8: Chrome
+  16: Duck
+  17: Duck
+  18: Duck
+  19: Duck
+  21: Duck
+  22: Duck
+  23: Duck
+  24: Settings
+  25: Redis
+  26: Duck
+  27: Duck
+  29: Duck
+  31: Duck
+  32: Duck
+  33: Duck
+  34: Duck
+  35: Duck
+  36: AnyDesk
+  38: Duck
+  39: Duck
+  40: Duck
+  41: Duck
+  42: Duck
+  45: Duck
+  46: Duck
+  47: Duck
+  48: Duck
+  53: Duck
+  54: Duck
+  55: Duck
+  58: Duck
+  59: Duck
+  60: Duck
+  61: Duck
+  65: Recycle Bin
+  66: Control Panel
+  67: Postman
+  70: Vs Code
+  71: Macfree soft
+  72: abc_object_73
+  73: you tube
+  74: Firefox
+  75: Folder
+  76: Folder
+  80: Folder
+  81: Folder
+  82: Folder
+  83: shiv paravati
+  84: Saraswati mata
+  85: Saraswati mata
+  86: abc_object_87
+  87: Copilot
+  88: Start Window Icon
+  89: Chrome
+  90: search bar
+  91: Chrome
+  178: Redis
+  181: Setting
+  182: Redis
+  203: AnyDesk
+  214: AnyDesk
+  226: Protron Vpn
+  233: Recycle Bin
+  234: Postman
+  235: Postman
+  237: Control Panel
+  238: Postman
+  248: Vs Code
+  249: 
+  250: Macfree soft
+  263: Folder
+  264: Folder
+  266: Firefox
+  267: abc1_object_181
+  268: abc1_object_182
+  269: abc1_object_183
+  270: abc1_object_184
+  271: abc1_object_185
+  272: abc1_object_186
+  273: abc1_object_187
+  274: abc1_object_188
+  275: abc1_object_189
+  276: abc1_object_190
+  277: abc1_object_191
+  278: abc1_object_192
+  279: abc1_object_193
+  280: abc1_object_194
+  281: abc1_object_195
+  282: abc1_object_196
+  283: abc1_object_197
+  284: Folder
+  285: abc1_object_199
+  286: Folder
+  287: abc1_object_201
+  288: Folder
+  289: abc1_object_203
+  290: abc1_object_204
+  291: abc1_object_205
+  292: abc1_object_206
+  293: Folder
+  294: Folder
+  295: abc1_object_209
+  296: abc1_object_210
+  297: Folder
+  298: abc1_object_212
+  299: abc1_object_213
+  300: abc1_object_214
+  301: Copilot
+  302: Chrome
+  303: search bar
+  304: Chrome
+  305: 
+  306: Start Window Icon
+  307: abc2_object_7
+  308: abc2_object_8
+  309: abc2_object_9
+  310: abc2_object_10
+  311: abc2_object_11
+  312: abc2_object_12
+  313: abc2_object_13
+  314: abc2_object_14
+  315: abc2_object_15
+  316: abc2_object_16
+  317: Zip Folder
+  318: abc2_object_18
+  319: abc2_object_19
+  320: abc2_object_20
+  321: abc2_object_21
+  322: abc2_object_22
+  323: abc2_object_23
+  324: abc2_object_24
+  325: Zip Folder
+  326: abc2_object_26
+  327: Text File
+  328: abc2_object_28
+  329: abc2_object_29
+  330: abc2_object_30
+  331: abc2_object_31
+  332: abc2_object_32
+  333: abc2_object_33
+  334: abc2_object_34
+  335: abc2_object_35
+  336: abc2_object_36
+  337: Vs Code
+  338: abc2_object_38
+  339: abc2_object_39
+  340: abc2_object_40
+  341: Redis
+  342: abc2_object_42
+  343: abc2_object_43
+  344: Redis
+  345: abc2_object_45
+  346: abc2_object_46
+  347: abc2_object_47
+  348: abc2_object_48
+  349: abc2_object_49
+  350: abc2_object_50
+  351: abc2_object_51
+  352: abc2_object_52
+  353: abc2_object_53
+  354: abc2_object_54
+  355: abc2_object_55
+  356: abc2_object_56
+  357: abc2_object_57
+  358: abc2_object_58
+  359: abc2_object_59
+  360: abc2_object_60
+  361: Microsoft ClipChamp
+  362: ToDo
+  363: AnyDesk
+  364: Fackbook
+  365: Instagram
+  366: Prime Video
+  367: Hotstar
+  368: abc2_object_68
+  369: abc2_object_69
+  370: AnyDesk
+  371: 
+  372: Photos
+  373: M365
+  374: Settings
+  375: Microsoft Store
+  376: Games
+  377: abc2_object_77
+  378: abc2_object_78
+  379: Protron Vpn
+  380: Outlook
+  381: Powerpoint
+  382: Excel
+  383: Word
+  384: Calander
+  385: Microsoft Edge
+  386: abc2_object_86
+  387: abc2_object_87
+  388: abc2_object_88
+  389: Recycle Bin
+  390: abc2_object_90
+  391: Postman
+  392: abc2_object_92
+  393: abc2_object_93
+  394: Control Panel
+  395: Postman
+  396: abc2_object_96
+  397: abc2_object_97
+  398: abc2_object_98
+  399: abc2_object_99
+  400: abc2_object_100
+  401: abc2_object_101
+  402: abc2_object_102
+  403: Vs Code
+  404: abc2_object_104
+  405: Macfree soft
+  406: abc2_object_106
+  407: abc2_object_107
+  408: abc2_object_108
+  409: abc2_object_109
+  410: abc2_object_110
+  411: abc2_object_111
+  412: abc2_object_112
+  413: abc2_object_113
+  414: abc2_object_114
+  415: abc2_object_115
+  416: abc2_object_116
+  417: Folder
+  418: Folder
+  419: abc2_object_119
+  420: Firefoox
+  421: abc2_object_121
+  422: abc2_object_122
+  423: abc2_object_123
+  424: abc2_object_124
+  425: abc2_object_125
+  426: abc2_object_126
+  427: abc2_object_127
+  428: abc2_object_128
+  429: abc2_object_129
+  430: abc2_object_130
+  431: abc2_object_131
+  432: abc2_object_132
+  433: abc2_object_133
+  434: abc2_object_134
+  435: abc2_object_135
+  436: abc2_object_136
+  437: abc2_object_137
+  438: Folder
+  439: Folder
+  440: Folder
+  441: abc2_object_141
+  442: Folder
+  443: abc2_object_143
+  444: abc2_object_144
+  445: abc2_object_145
+  446: abc2_object_146
+  447: Folder
+  448: Folder
+  449: abc2_object_149
+  450: abc2_object_150
+  451: Folder
+  452: abc2_object_152
+  453: abc2_object_153
+  454: abc2_object_154
